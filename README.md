@@ -9,4 +9,6 @@ Merci de me faire des retours sur Slack (Matthieu BRAULT) à propos de ces exos 
 
 Sur le push initial, 5 exercices sont disponibles, j'en rajouterai petit à petit.
 
+Un exercice bonus est disponible vous demandant de recoder une sorte de JQuery pour sélectionner des éléments HTML, ce bonus vous sera très pratique pour réaliser la liste d'exercice. À vous de voir si vous voulez le faire !
+
 Bon courage !
